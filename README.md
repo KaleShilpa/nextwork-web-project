@@ -58,7 +58,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the my CI/CD project, please contact:
-Shilapa - [email@example.com](mailto:shilpa_i_kale@yahoo.com)
+Shilpa - [email@example.com](mailto:shilpa_i_kale@yahoo.com)
 
 - [LinkedIn](https://www.linkedin.com/in/shilpa-kale/)
 
